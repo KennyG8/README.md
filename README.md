@@ -2,7 +2,7 @@
 
 <h3>Olá tudo bem?, Porquê você veio aqui?</h3>
 
- <h2>áreas que tenho conhecimento são: #JavaScrip, Html5, css3 e Mongodb</h2>
+ <h2>áreas que tenho conhecimento são: [JavaScrip](), [Html5](), [css3]() e [Mongodb](https://dev.to/emanuelferreira/mongodb-find-e-findone-5c6b#:~:text=O%20M%C3%A9todo%20findOne%20retorna%20o,corresponda%20com%20o%20campo%20name.)</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
