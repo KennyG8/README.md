@@ -1,13 +1,13 @@
 ## Olá! Eu sou Felipe 💻!
 
-- 💻 Estudando Html, Css, React até o fim
+<h3>Olá tudo bem?, Porquê você veio aqui?</h3>
 
-  
+ <h2>áreas que tenho conhecimento são: #JavaScrip, Html5, css3 e Mongodb</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Felipe-Quick.db" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons//MongoDB-original.svg">
+  <img align="center" alt="Felipe-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Mongoose/Mongoose-original.svg">
   
   </div>
   
